@@ -1,2 +1,2 @@
 # calculator
-A emulated calculator by Java
+A emulated calculator by Java (Project by Netbeans IDE)
