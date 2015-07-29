@@ -1,5 +1,5 @@
 ## Calculator
-A emulated calculator by Java (Project by Netbeans IDE)
+An emulated calculator by Java (Project by Netbeans IDE)
 
 Using *ScriptEngine* for calculating result
 
